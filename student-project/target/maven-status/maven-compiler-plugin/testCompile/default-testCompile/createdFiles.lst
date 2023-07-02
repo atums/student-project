@@ -1,0 +1,5 @@
+com\apys\learning\validator\register\FakeCityRegisterChecker.class
+com\apys\learning\dao\SimpleRunner.class
+com\apys\learning\dao\StudentDAOImplTest.class
+com\apys\learning\dao\DBInit.class
+com\apys\learning\dao\DictionaryDAOImplTest.class
